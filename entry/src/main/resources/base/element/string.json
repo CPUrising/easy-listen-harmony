@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "边阅读边听的单文件音频播放器"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Easy Listen 播放器"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Easy Listen"
+    },
+    {
+      "name": "reason_file_access_persist",
+      "value": "用于记住已导入的音频文件夹，重启后仍可直接选择播放"
+    }
+  ]
+}

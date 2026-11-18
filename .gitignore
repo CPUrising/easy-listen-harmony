@@ -1,0 +1,33 @@
+# 依赖与构建产物
+/node_modules
+/oh_modules
+**/node_modules
+**/oh_modules
+**/build
+**/.preview
+**/.hvigor
+/.hvigor
+/.appanalyzer
+**/.test
+*.har
+*.hap
+*.hsp
+
+# DevEco Studio / 本地环境
+/.idea
+/local.properties
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+*.log
+
+# 测试与截图
+/.screenshots/
+
+# 本地工具与智能体产生的文件
+/.trae/
+
+# 系统文件
+.DS_Store
+Thumbs.db
